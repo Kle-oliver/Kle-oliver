@@ -5,7 +5,7 @@
  
  <div>
   <a href="https://github.com/Kle-oliver">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kle-oliver&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kle-oliver&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kle-oliver&layout=compact&langs_count=7&theme=react" />
 </div>
  
@@ -29,6 +29,6 @@
 - ✨ Learning is continuous and there will always be a next level
  -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleverson-oliveira-dos-santos-a29354182/)](https://www.linkedin.com/in/kleverson-oliveira-dos-santos-a29354182/) 
-[![gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=blue&link=mailto:kleverson.oliveirasantos@hotmail.com)](mailto:kleverson.oliveirasantos@gmail.com)
+[![gmail Badge](https://img.shields.io/badge/-Gmail-ffffff?style=flat-square&logo=Gmail&logoColor=red&link=mailto:kleverson.oliveirasantos@hotmail.com)](mailto:kleverson.oliveirasantos@gmail.com)
 
 ![snake gif](https://github.com/Kle-oliver/Kle-oliver/blob/output/github-contribution-grid-snake.svg)
