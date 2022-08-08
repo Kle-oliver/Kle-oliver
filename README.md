@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Hey! Welcome to my profile! How is it going?
+## Welcome to my profile! How is it going?
  
  <div>
   <a href="https://github.com/Kle-oliver">
